@@ -6,7 +6,8 @@ A simple Node.js + Express web application to display taco recipes using **JSON 
 ## 🖼️ Website Preview
 
 ![Taco Recipes Preview 1](screenshots/taco-recipes-1.png)
-![Taco Recipes Preview 2](screenshots/taco-recipes-1.png)
+
+![Taco Recipes Preview 2](screenshots/taco-recipes-2.png)
 
 ---
 
